@@ -1,0 +1,6 @@
+Revision history for Perl extension NewsTicker::Source::Program.
+
+0.01  Mon Jul  8 19:59:21 2002
+	- original version; created by h2xs 1.21 with options
+		-A -X -n NewsTicker::Source::Program
+
